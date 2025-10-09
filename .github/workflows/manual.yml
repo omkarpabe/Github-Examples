@@ -7,7 +7,6 @@ on:
         description: 'Name of the person to greet'
         required: true
         type: string
-        
       greeting:
         description: 'Type of greeting'
         required: true
